@@ -1,0 +1,22 @@
+{
+  "name": "valentinnew/micro-framework",
+  "description": "microframework for jene4ka",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Valentin",
+      "email": "phedotovvalentin@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "MF\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4",
+    "ext-json": "*"
+  }
+}
