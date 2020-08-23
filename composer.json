@@ -1,5 +1,6 @@
 {
   "name": "valentinnew/micro-framework",
+  "type": "library",
   "description": "microframework for jene4ka",
   "license": "proprietary",
   "version": "0.1.0",
