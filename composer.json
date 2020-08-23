@@ -2,6 +2,7 @@
   "name": "valentinnew/micro-framework",
   "type": "library",
   "description": "microframework for jene4ka",
+  "minimum-stability": "dev",
   "license": "proprietary",
   "version": "0.1.0",
   "authors": [
